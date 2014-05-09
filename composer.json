@@ -1,5 +1,5 @@
 {
-	"name": "SRWieZ/PHPImap",
+	"name": "srwiez/phpimap",
 	"description": "PSR-1 compliant fork of Barbushin PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extension",
 	"keywords": ["PHP", "IMAP", "mail"],
 	"homepage": "https://github.com/srwiez/php-imap",
