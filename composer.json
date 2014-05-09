@@ -1,8 +1,8 @@
 {
-	"name": "php-imap/php-imap",
-	"description": "PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extension",
+	"name": "SRWieZ/PHPImap",
+	"description": "PSR-1 compliant fork of Barbushin PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extension",
 	"keywords": ["PHP", "IMAP", "mail"],
-	"homepage": "https://github.com/barbushin/php-imap",
+	"homepage": "https://github.com/srwiez/php-imap",
 	"license": "LGPL",
 	"type": "library",
 	"authors": [
@@ -10,6 +10,11 @@
 			"name": "Sergey Barbushin",
 			"homepage": "http://linkedin.com/in/barbushin",
 			"email": "barbushin@gmail.com"
+		},
+		{
+			"name": "Eser Deniz",
+			"homepage": "http://eserdeniz.fr",
+			"email": "srwiez@gmail.com"
 		}
 	],
 	"require": {

@@ -1,4 +1,4 @@
-ImapMailbox is PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extension
+PSR-1 compliant fork of Barbushin ImapMailbox is PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extension
 
 Features:
  * Connect to mailbox by POP3/IMAP/NNTP (see [http://php.net/imap_open imap_open])
@@ -9,6 +9,9 @@ Features:
  * Delete email
 
 Project site:
+https://github.com/srwiez/php-imap
+
+Original Repo :
 https://github.com/barbushin/php-imap
 
 Recommended:
